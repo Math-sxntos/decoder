@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8"> 
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="shortcut icon" href="./assets/icon-pinguim.png" type="image/x-icon">
+    <title>Deco:>er</title>
+</head>
+<body>
+    <header>
+        <img class="logo" src="./assets/header-pinguins.png" alt="">
+    </header>
+    
+    <main>
+        <section class="content">
+            <div>
+                <textarea placeholder="type here..."
+                    id="text__area" 
+                    cols="41" 
+                    rows="4" 
+                ></textarea>
+            </div>
+            <div class="content__information">
+                <div class="information">
+                    <img src="./assets/exclamation.png" alt="Exclamation circle icon">
+                    <h6>Lowercase letters only and no special characters.</h6>
+                </div>
+    
+                <div class="button">
+                    <button onclick="encrypt()" class="button__e">encrypt</button>
+                    <button onclick="decrypt()" class="button__d">decrypt</button>
+                </div>
+            </div>
+        </section>
+
+        <section class="box">
+            <div class="message">
+                <div id="message__content">
+                    <img src="./assets/box-pinguim.png" alt=".">
+                    <div class="message__text">
+                        <h1>No messages found</h1>
+                        <h2>Enter a message to encrypt or decrypt.</h2>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer class="footer">
+        <div class="footer__a">
+            <a href="https://github.com/Math-sxntos" target="_blank" ><img src="assets/github-logo-azul.png"></ion-icon></a>
+            <a href="https://linkedin.com/in/matheus-sxntos" target="_blank"><img src="assets/linkedin-logo.png" ></a>
+        </div>
+        <h4>Developed by Matheus Santos</h4>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
