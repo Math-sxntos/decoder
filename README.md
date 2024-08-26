@@ -31,13 +31,11 @@ Projeto desenvolvido como parte do desafio Challenge do programa Oracle Next Edu
 
     * <b>Copy</b>: Copiar o conteúdo da caixa de saída para a área de transferencia - exibindo um alerta ao usuário - e limpar o campo de entrada.
 
-* 💻 Tecnologias
+* Tecnologias 💻
   
    * JavaScript: Utilizado para implementar a lógica da aplicação - criptografar e descriptografar, manipulando e validando o texto inserido pelo usuário.
    * HTML: Estruturar a interface do usuário, incluindo os campos de entrada e saída de texto, além de implementar os botões de ação.
    * CSS: Responsável pela estilização da aplicação, proporcionando uma interface visualmente agradável e responsiva.
-
-
 
 <h2>Funções</h2>
 
