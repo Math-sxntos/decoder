@@ -31,9 +31,13 @@ Projeto desenvolvido como parte do desafio Challenge do programa Oracle Next Edu
 
     * <b>Copy</b>: Copiar o conteúdo da caixa de saída para a área de transferencia - exibindo um alerta ao usuário - e limpar o campo de entrada.
 
-<h2>💻 Tecnologias</h2>
+* 💻 Tecnologias
+  
+   * JavaScript: Utilizado para implementar a lógica da aplicação - criptografar e descriptografar, manipulando e validando o texto inserido pelo usuário.
+   * HTML: Estruturar a interface do usuário, incluindo os campos de entrada e saída de texto, além de implementar os botões de ação.
+   * CSS: Responsável pela estilização da aplicação, proporcionando uma interface visualmente agradável e responsiva.
 
-<img src="./assets/logo-html.png" width="52px"><img src="./assets/css-logo.png" width="52px"><img src="./assets/js-logo.png" width="52px">  
+
 
 <h2>Funções</h2>
 
@@ -63,4 +67,4 @@ Projeto desenvolvido como parte do desafio Challenge do programa Oracle Next Edu
 <img src="./assets/imagem1.png" alt="Imagem 1">
 <img src="./assets/imagem2.png" alt="Imagem 2">
 
-Link do programa:
+Link do programa: https://penguin-decoder.vercel.app/
